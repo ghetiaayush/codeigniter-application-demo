@@ -1,7 +1,7 @@
 # codeigniter-basic-demo
 - This repository is based on the online lerning from udemy
 
-# short introduction 
+# short introduction about codeigniter framework
 - CodeIgniter is an application development framework, which can be used to develop websites, using PHP. 
 - It is an Open Source framework. It has a very rich set of functionality, which will increase the speed of website development work.
 - It has a very rich set of libraries and helpers. 
