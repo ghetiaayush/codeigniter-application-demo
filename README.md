@@ -1,4 +1,4 @@
-# codeigniter-basic-demo
+# codeigniter-application-demo
 - Codeigniter is an application development framework, which can be used to develop websites, using PHP. 
 - It is an Open Source framework. It has a very rich set of functionality, which will increase the speed of website development work.
 - It has a very rich set of libraries and helpers. 
